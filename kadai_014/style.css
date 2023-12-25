@@ -1,0 +1,16 @@
+.red{color:red;}
+.blue{color: blue;}
+.skyblue{color: skyblue;}
+.pink{color:rgb(255,192,203) }
+.body{font-family:"Arial", "Meiryo" ;}
+.h1{font-family: "Josefin Sans","sans-serif";}
+.h1{letter-spacing: 1.2em;}
+.senter{font-size: 20px;}
+.h1{font-size: 2em;}
+.big{font-weight: bold;}
+.senter{text-align: center ;}
+.h1{text-shadow: 1px 2px 3px #b019b0;}
+#boldfont1{font-weight: bold;}
+#boldfont2{font-weight: bold;}
+#boldfont3{font-weight: bold;}
+h1{border-bottom: solid 3px rgb(115,115,114)}
